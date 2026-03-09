@@ -1,3 +1,355 @@
+## [5.2.12](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.11...v5.2.12) (2026-02-20)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.37.4 to 24.37.5 ([6668d0a](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/6668d0a6d48859a8b0110ae38e4db8f08718146b))
+
+## [5.2.11](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.10...v5.2.11) (2026-02-19)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.37.3 to 24.37.4 ([d750505](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/d750505d71f99518f40598e16e7a11f9d64344e1))
+
+## [5.2.10](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.9...v5.2.10) (2026-02-16)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.37.2 to 24.37.3 ([171b2e2](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/171b2e262aa53093347265249ddcbc893f606541))
+
+## [5.2.9](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.8...v5.2.9) (2026-02-06)
+
+
+### Bug Fixes
+
+* **prepare.js:** update OS dependency installation process for Puppeteer on Debian/Ubuntu ([f52c709](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/f52c709a8ec1d7eff02009e83afd9235083a0509))
+* **prepare/puppet:**  enhance prepare.js and puppet.js for improved configuration handling ([450b0e0](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/450b0e0a088afc45286c1cd6ed49b8d325d63c55))
+
+## [5.2.8](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.7...v5.2.8) (2026-02-06)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.37.0 to 24.37.1 ([b7ac931](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/b7ac9315d8515e6223e4ed01e9b0de2e257ab999))
+
+## [5.2.7](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.6...v5.2.7) (2026-02-05)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.36.1 to 24.37.0 ([678942b](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/678942bdfd3690bc5fba07e4755ac1691d02809f))
+
+## [5.2.6](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.5...v5.2.6) (2026-02-03)
+
+
+### Bug Fixes
+
+* **deps:** bump tar from 7.5.2 to 7.5.7 ([a885d56](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/a885d56629c19ea5883531ad9727999f243285f3))
+
+## [5.2.5](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.4...v5.2.5) (2026-01-28)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.36.0 to 24.36.1 ([359913c](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/359913c01dec5f8c06128ac066cdddce8022f845))
+
+## [5.2.4](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.3...v5.2.4) (2026-01-23)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.35.0 to 24.36.0 ([b88319c](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/b88319c02ae85247822b56296f07ad9adf6dde88))
+
+## [5.2.3](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.2...v5.2.3) (2026-01-21)
+
+
+### Bug Fixes
+
+* **deps:** bump tar from 7.5.2 to 7.5.6 ([89652df](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/89652df586cc4e37aa8fcc005ebd7efe7ce439dd))
+
+## [5.2.2](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.1...v5.2.2) (2026-01-12)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.34.0 to 24.35.0 ([702251a](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/702251abbdf498a9f66f51da9ab470fac0934a0a))
+
+## [5.2.1](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.2.0...v5.2.1) (2026-01-07)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.33.1 to 24.34.0 ([4082e24](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/4082e246606fa20dc1b73e323fe4de24b930d747))
+
+# [5.2.0](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.22...v5.2.0) (2026-01-07)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.30.0 to 24.31.0 ([7d2ff8a](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/7d2ff8a2ead33c606f76e72303a92ed2fda05622))
+* **deps:** bump puppeteer from 24.31.0 to 24.33.0 ([e05fd23](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/e05fd2336697239e1766f0617e08c8c62fc83040))
+* **deps:** bump puppeteer from 24.33.0 to 24.33.1 ([cfbb3ad](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/cfbb3adb2310cbb04e9c4a48520e05f74cc996bf))
+* **deps:** bump puppeteer from 24.33.1 to 24.34.0 ([aff5059](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/aff5059079c0c95cec7c513c2d12a0a79dd45c03))
+
+
+### Features
+
+* **index.js:** add prepare step to install Chromium/Chrome OS dependencies for Puppeteer ([7e61220](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/7e61220646f4e3bcf68d300370a47668955b990b))
+
+## [5.1.22](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.21...v5.1.22) (2025-11-13)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.29.1 to 24.30.0 ([86def84](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/86def849e2a6453057182b67d46c7c2b82922fce))
+
+## [5.1.21](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.20...v5.1.21) (2025-11-07)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.29.0 to 24.29.1 ([00f185e](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/00f185ebd11184f61cf96a144062dc54e6c88220))
+
+## [5.1.20](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.19...v5.1.20) (2025-11-06)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.28.0 to 24.29.0 ([6b23bbb](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/6b23bbbe2420bf8d39747e027884d09a39f8185a))
+
+## [5.1.19](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.18...v5.1.19) (2025-11-04)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.27.0 to 24.28.0 ([dbb8037](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/dbb8037528341330a538cf7f3283da6a44daf73f))
+
+## [5.1.18](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.17...v5.1.18) (2025-11-03)
+
+
+### Bug Fixes
+
+* **deps:** bump @octokit/rest from 22.0.0 to 22.0.1 ([d783238](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/d7832385264993257a8f85e976742f31f3d9fca3))
+
+## [5.1.17](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.16...v5.1.17) (2025-10-29)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.26.1 to 24.27.0 ([c0d34c2](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/c0d34c24dcdff9b9b0d398e8aedf96d81d3e7ceb))
+
+## [5.1.16](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.15...v5.1.16) (2025-10-24)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.26.0 to 24.26.1 ([2b7e78e](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/2b7e78edfc87fece6e147377b3ee11bea4c6efd7))
+
+## [5.1.15](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.14...v5.1.15) (2025-10-22)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.25.0 to 24.26.0 ([2d269ed](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/2d269ed6be78a5473cedefcdcf8720387440ecce))
+
+## [5.1.14](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.13...v5.1.14) (2025-10-15)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.24.1 to 24.25.0 ([2452c82](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/2452c82f97101069f1364c0ba27836a589ae6153))
+
+## [5.1.13](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.12...v5.1.13) (2025-10-14)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.24.0 to 24.24.1 ([a4bb111](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/a4bb1114fd3f1d16442a89c3ddfe84cabb77bde4))
+
+## [5.1.12](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.11...v5.1.12) (2025-10-13)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.23.0 to 24.24.0 ([affa00d](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/affa00ddf8c5cdf6958f96490b1a89b57a12c0cd))
+
+## [5.1.11](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.10...v5.1.11) (2025-10-02)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.22.3 to 24.23.0 ([3813326](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/3813326fb8d174ba6e1017c06ac27f2b21599f50))
+
+## [5.1.10](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.9...v5.1.10) (2025-09-25)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.22.2 to 24.22.3 ([8346d82](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/8346d821708725b8655e9f44263d2e51c5a51a25))
+
+## [5.1.9](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.8...v5.1.9) (2025-09-24)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.22.0 to 24.22.2 ([e31b1b8](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/e31b1b8771b88b458b92745edd013a6099e470b4))
+
+## [5.1.8](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.7...v5.1.8) (2025-09-18)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.21.0 to 24.22.0 ([e06d2c8](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/e06d2c8189240edd563cc545c4e1bbfade4600a3))
+
+## [5.1.7](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.6...v5.1.7) (2025-09-16)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.20.0 to 24.21.0 ([3a53a75](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/3a53a75e5a414aa5b9cba2a3c7834a5f1ec6527e))
+
+## [5.1.6](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.5...v5.1.6) (2025-09-15)
+
+
+### Bug Fixes
+
+* **deps:** bump debug from 4.4.1 to 4.4.3 ([5475bf3](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/5475bf33591004b5a78064c5e5711a183986677a))
+
+## [5.1.5](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.4...v5.1.5) (2025-09-11)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.19.0 to 24.20.0 ([27ae675](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/27ae675904cd70d84be7247608ca20053436b6bd))
+
+## [5.1.4](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.3...v5.1.4) (2025-09-05)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.18.0 to 24.19.0 ([c6557bf](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/c6557bfd3fa0d146ea6d1f1427e57db0e5ffd7cd))
+
+## [5.1.3](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.2...v5.1.3) (2025-09-04)
+
+
+### Bug Fixes
+
+* **core:** implement timeout handling for publish operations and improve error handling in compatibility updates ([5fc8b34](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/5fc8b345a8412e0ec0bfa92922fe2939af84224a))
+
+## [5.1.2](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.1...v5.1.2) (2025-09-01)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.17.1 to 24.18.0 ([1d3627e](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/1d3627e7316b61d550be47e7af9390156e068abd))
+
+## [5.1.1](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.1.0...v5.1.1) (2025-08-29)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.17.0 to 24.17.1 ([5990900](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/59909003fb4f51333f651141d202632603358eee))
+
+# [5.1.0](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.69...v5.1.0) (2025-08-27)
+
+
+### Bug Fixes
+
+* **build:** upgrade to yargs v18 and migrate ([bd76d66](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/bd76d665ce041da92525e1c893abb2a18cc216bd))
+* **deps:** bump puppeteer from 24.10.0 to 24.10.1 ([0d29898](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/0d29898b492f68b961f565baebd6e721708d8ad4))
+* **deps:** bump puppeteer from 24.10.1 to 24.10.2 ([0dfb495](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/0dfb495dfa3f658cddaa891c767799670c972cac))
+* **deps:** bump puppeteer from 24.10.2 to 24.11.0 ([ea796a9](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/ea796a9ecbf8d3363700c406077e2be77b73adcd))
+* **deps:** bump puppeteer from 24.11.0 to 24.11.1 ([3ae9489](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/3ae94893910e64f3e14559baf2bebc7dbb9ff058))
+* **deps:** bump puppeteer from 24.11.1 to 24.11.2 ([88f2742](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/88f274242587aaa3988e96a8518c235d94ffb9b0))
+* **deps:** bump puppeteer from 24.11.2 to 24.12.0 ([d5b567e](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/d5b567e8f51fe242aee330a4307d55196e84b71e))
+* **deps:** bump puppeteer from 24.12.0 to 24.12.1 ([9dbe28e](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/9dbe28ed4945ba46fa4a9fe3f7ff6444dd8524bb))
+* **deps:** bump puppeteer from 24.12.1 to 24.13.0 ([2d70c97](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/2d70c97954313865141cb80f6f11d33e97ef815c))
+* **deps:** bump puppeteer from 24.13.0 to 24.14.0 ([7e53f33](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/7e53f33827c7ada81db111181d2c6286d0c75865))
+* **deps:** bump puppeteer from 24.14.0 to 24.15.0 ([f106758](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/f1067585485625d641207a3e1093ba135651973c))
+* **deps:** bump puppeteer from 24.15.0 to 24.16.0 ([e2ad05a](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/e2ad05acd6757eab03fe7698374818de724a1c89))
+* **deps:** bump puppeteer from 24.16.0 to 24.16.1 ([4923a9f](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/4923a9fa8108a695f70f98fd233f1ed572fb8e3b))
+* **deps:** bump puppeteer from 24.16.1 to 24.16.2 ([8974a59](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/8974a5916c6c8f0b5b7a59b5ada52cd4ec1996d2))
+* **deps:** bump puppeteer from 24.16.2 to 24.17.0 ([413aa19](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/413aa1936451eb22b8e4bc430cdab706d82f99b5))
+* **deps:** bump puppeteer from 24.8.2 to 24.9.0 ([1bef7d3](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/1bef7d3ff81b333b96fb37330829aed1d5026f9b))
+* **deps:** bump puppeteer from 24.9.0 to 24.10.0 ([85f18fd](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/85f18fd4b77a58c545407b984fd31f8fe6393b7e))
+
+
+### Features
+
+* **core-logics:** enhance puppeteer utility functions for better navigation and error handling ([ed3acc4](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/ed3acc493e4b9f11bdf35e0d7eac4e4cff84e605))
+
+## [5.0.69](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.68...v5.0.69) (2025-05-14)
+
+
+### Bug Fixes
+
+* **deps:** bump debug from 4.4.0 to 4.4.1 ([eea3d3d](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/eea3d3d29bfc289194328a8ecbbc2e28d4b748f8))
+
+## [5.0.68](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.67...v5.0.68) (2025-05-08)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.8.1 to 24.8.2 ([1c7f179](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/1c7f1790e8c8930a6b64a0e9907fd0a43595c364))
+
+## [5.0.67](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.66...v5.0.67) (2025-05-07)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.8.0 to 24.8.1 ([66dc31f](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/66dc31f5dc054133fa3267a504fc5e52430c5735))
+
+## [5.0.66](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.65...v5.0.66) (2025-05-02)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.7.2 to 24.8.0 ([dff2fbe](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/dff2fbee095059c6fbf2b4e2b60b8593532ae800))
+
+## [5.0.65](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.64...v5.0.65) (2025-04-25)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.7.1 to 24.7.2 ([b5c5590](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/b5c5590977ddc319f27a11465c8cddb2140d8784))
+
+## [5.0.64](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.63...v5.0.64) (2025-04-23)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.7.0 to 24.7.1 ([72b896a](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/72b896a5653d9f4de42e48f48894ce43f026702b))
+
+## [5.0.63](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.62...v5.0.63) (2025-04-22)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.6.1 to 24.7.0 ([c97cc68](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/c97cc687d1df18c6a718b5fced1442d521488a12))
+
+## [5.0.62](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.61...v5.0.62) (2025-04-10)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.6.0 to 24.6.1 ([6e72844](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/6e728440a066c13a7fd747afe403896c1259e2cb))
+
+## [5.0.61](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.60...v5.0.61) (2025-04-04)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.5.0 to 24.6.0 ([f401fc4](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/f401fc4fb3fe603fef6edda71299b514576fd0dc))
+
+## [5.0.60](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.59...v5.0.60) (2025-04-02)
+
+
+### Bug Fixes
+
+* **deps:** bump puppeteer from 24.4.0 to 24.5.0 ([18ac388](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/commit/18ac3887bef982fe6f4db052f1414cfd71ca6830))
+
 ## [5.0.59](https://github.com/centralnicgroup-opensource/rtldev-middleware-semantic-release-whmcs/compare/v5.0.58...v5.0.59) (2025-03-18)
 
 
